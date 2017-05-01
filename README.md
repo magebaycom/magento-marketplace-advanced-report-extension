@@ -3,7 +3,7 @@ Magento Marketplace Advanced Report Extension allow Vendor can easy to create re
 
 It is a plugin of Magebay Multi Vendor Marketplace Extension, You need installed [Magento Multi Vendor](https://www.magebay.com/magento-multi-vendor-marketplace-extension) firts to used this features.
 
-## Features of Marketplace Advanced Report Extension for Magento 2
+## Features of Marketplace Vendor Advanced Report Extension for Magento 2
 - Vendor can get report for their orders
 - Vendor can see top best sales products
 - Vendor can get most viewed products
